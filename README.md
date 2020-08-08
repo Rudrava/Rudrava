@@ -1,7 +1,19 @@
-# Rudrava Mukherjee <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+# Rudrava Mukherjee <img align='right' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/monadance.gif' width='200"'>
 
 ## My JAMs
+<img align='left' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/c.jpg' width='50"' alt="C logo">
+<p> This was my first Computer Language, i absolutely love this language for its simplicity and RAWness</p></img><br>
 
+<img align='right' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/python.jpg' width='85"' alt="C logo">
+<p> I transitioned to Python after a year or so in C and Man didnt it felt awesome. Like u dont have to do stuff manually that means more time to solve and optimize problems and the plethera of modules it brings with it is just a blessing. Ihave a plenty of Python projects DO CHECK EM OUT...</p></img><br>
+
+
+<img align='left' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/html.jpg' width='85"' alt="C logo">
+<p> Then I learnt what many people dosen't consider to be a <b><em>"PROGRAMMING LANGUAGE"</em></b>. BUt trust me if u want to get into programming or maybe grow interest when you are in a creative lock HTML feels like <i>HEAVEN</i> </p></img><br>
+
+
+<img align='right' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/css.jpg' width='50' alt="C logo">
+<p> I transitioned to Python after a year or so in C and Man didnt it felt awesome. Like u dont have to do stuff manually that means more time to solve and optimize problems and the plethera of modules it brings with it is just a blessing. Ihave a plenty of Python projects DO CHECK EM OUT...</p></img><br>
 
 ## Currently working On
    
