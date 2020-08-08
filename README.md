@@ -1,6 +1,7 @@
-<h1> Rudrava Mukherjee </h1><img align='right' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/monadance.gif' width='200"'>
-
-
+<div>
+<h1> Rudrava Mukherjee </h1>
+  <img align='right' src='https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' width='200"'>
+</div>
 
 
 
@@ -12,7 +13,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 
 <h2> My JAMs </h2>
-
+<img align='right' src='https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif' width='200"'>
 
   <h3><em>C</em></h3>
 
@@ -47,8 +48,8 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 
 
-<h2> Currently working On </h2>
-
+<h2> Currently working On </h2><img align='right' src='https://media.giphy.com/media/eYilisUwipOEM/giphy.gif' width='200"'>
+<br>
    <h3>Developing</h3>
     <b><a href="https://github.com/New-Rade/" target="_blank"><em>newRade</em></a> as a ** web/App developement ** and ** Social Media Company **
    </b>
