@@ -1,18 +1,17 @@
 <h1> Rudrava Mukherjee </h1><img align='right' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/monadance.gif' width='200"'>
 
-<hr>
+
 
 
 
 <h2> How I work </h2>
-<hr>
-My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
 
+My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
+<hr>
 
 
 
 <h2> My JAMs </h2>
-<hr>
 
 
   <h3><em>C</em></h3>
@@ -43,15 +42,16 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
   
 <img align='left' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/sql.jpg' width='55"' alt="sql logo">
 <p> This is if u dont know is a <b><em>"Database query Lang"</em></b>. I'm currently learning <b>Mongo DB</b> but once You know SQL <em>CRUD</em>, it all becomes so easy...</p></img>
+<hr>
 
 
 
 
 <h2> Currently working On </h2>
-<hr>
+
    <h3>Developing</h3>
-    <a href="https://github.com/New-Rade/" target="_blank"><em>newRade</em></a> as a ** web/App developement ** and ** Social Media Company **
-   
+    <b><a href="https://github.com/New-Rade/" target="_blank"><em>newRade</em></a> as a ** web/App developement ** and ** Social Media Company **
+   </b>
    <h4> With </h4>
    
 [@Avilash2001](https://github.com/Avilash2001) | [@FUNKY-doc69](https://github.com/FUNKY-doc69) | 
@@ -65,7 +65,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
    <li>JavaScript</li>
    </ul>
 
-
+<hr>
 <h2> Get in touch </h2> 
 <hr>
  🐦twitter:  <a href="https://twitter.com/rudra_m1" target="_blank">@rudra_m1</a><br>
