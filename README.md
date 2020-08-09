@@ -50,8 +50,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 <h2> Currently working On </h2><img align='right' src='https://media.giphy.com/media/eYilisUwipOEM/giphy.gif' width='200"'>
 <br>
-   <h3>Developing</h3>
-    <b><a href="https://github.com/New-Rade/" target="_blank"><h2>newRade</h2></a> as a <em> web/App developement </em> and <em> Social Media Company </em>
+   <h2>newRade</h2><b> as a <em> web/App developement </em> and <em> Social Media Company </em>. Check <a href="https://github.com/New-Rade/" target="_blank">newRade</a> here...</b>
    </b>
    <h4> With </h4>
    
