@@ -70,5 +70,5 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 <hr>
  🐦twitter:  <a href="https://twitter.com/rudra_m1" target="_blank">@rudra_m1</a><br>
  📷instagram:  <a href="https://instagram.com/im._rudra" target="_blank">@im._rudra</a><br>
- 🤵linkedIn : [rudrava-mukherjee](https://www.linkedin.com/in/rudrava-mukherjee/)<br>
+ 🤵linkedIn : <a href="https://www.linkedin.com/in/rudrava-mukherjee" target="_blank">rudrava mukherjee</a>
  
