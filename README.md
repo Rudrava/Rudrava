@@ -78,6 +78,6 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 <h2> Get in touch </h2> <img align='right' src='https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif' width='200"'>
 <hr>
  🐦twitter:  <a href="https://twitter.com/rudra_m1" target="_blank">@rudra_m1</a><br>
- 📷instagram:  <a href="https://instagram.com/im._rudra" target="_blank">@im._rudra</a><br>
+ 📷instagram:  <a href="https://instagram.com/rudrava.js" target="_blank">@rudrava.js</a><br>
  🤵linkedIn : <a href="https://www.linkedin.com/in/rudrava-mukherjee" target="_blank">rudrava mukherjee</a>
  
