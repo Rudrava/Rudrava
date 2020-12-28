@@ -36,13 +36,23 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
   <h3><em>Cascading Style Sheets</em></h3>
   
 <img align='right' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/css.jpg' width='50' alt="css logo">
-<p> I transitioned to Python after a year or so in C and Man didnt it felt awesome. Like u dont have to do stuff manually that means more time to solve and optimize problems and the plethera of modules it brings with it is just a blessing. Ihave a plenty of Python projects DO CHECK EM OUT...</p></img><br>
+<p> CSS what a dope thing man. The excitement that it brings on the table that it can do every time something new is very heart warming...</p></img><br>
 
+  <h3><em>JavaScript</em></h3>
+  
+<img align='right' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/js.jpg' width='50' alt="css logo">
+<p> The most beautiful language I ever worked with. From the syntax to compilation I just admire the language. And the solutions it brings with node, is just hats off. Stay tuned for my node review coming soon :-p ...</p></img><br>
 
   <h3><em>Structured Query Language</h3>
   
 <img align='left' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/sql.jpg' width='55"' alt="sql logo">
 <p> This is if u dont know is a <b><em>"Database query Lang"</em></b>. I'm currently learning <b>Mongo DB</b> but once You know SQL <em>CRUD</em>, it all becomes so easy...</p></img>
+<hr>
+
+<h3><em>MongoDb</h3>
+  
+<img align='left' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/mongoDb.jpg' width='55"' alt="sql logo">
+<p> Ah a NO SQL (noSEQUAL) man its just a life saver at some parts of DB but sucks at others. But i was sold to MongoDb just cuz its JS ORM. </img>
 <hr>
 
 
@@ -61,8 +71,8 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
   <h3>Learning</h3>
    <ul>
    <li><b>MERN</b> stack</li>
-   <li>MongoDB</li>
-   <li>JavaScript</li>
+   <li>MongoDB(DONE)</li>
+   <li>JavaScript(DONE)</li>
    </ul>
 
 <hr>
