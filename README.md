@@ -40,7 +40,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
   <h3><em>JavaScript</em></h3>
   
-<img align='right' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/js.jpg' width='50' alt="css logo">
+<img align='right' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/js.jpg' width='50' alt="js logo">
 <p> The most beautiful language I ever worked with. From the syntax to compilation I just admire the language. And the solutions it brings with node, is just hats off. Stay tuned for my node review coming soon :-p ...</p></img><br>
 
   <h3><em>Structured Query Language</h3>
@@ -51,7 +51,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 <h3><em>MongoDb</h3>
   
-<img align='left' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/mongoDb.jpg' width='55"' alt="sql logo">
+<img align='left' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/mongoDb.png' width='55"' alt="mongodb logo">
 <p> Ah a NO SQL (noSEQUAL) man its just a life saver at some parts of DB but sucks at others. But i was sold to MongoDb just cuz its JS ORM. </img>
 <hr>
 
