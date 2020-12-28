@@ -46,7 +46,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
   <h3><em>Structured Query Language</h3>
   
 <img align='left' src='https://raw.githubusercontent.com/Rudrava/Rudrava/master/sql.jpg' width='55"' alt="sql logo">
-<p> This is if u dont know is a <b><em>"Database query Lang"</em></b>. I'm currently learning <b>Mongo DB</b> but once You know SQL <em>CRUD</em>, it all becomes so easy...</p></img>
+<p> This is if u dont know is a <b><em>"Database query Language"</em></b>. I'm currently learning <b>Mongo DB</b> but once You know SQL <em>CRUD</em>, it all becomes so easy...</p></img>
 <hr>
 
 <h3><em>MongoDb</h3>
