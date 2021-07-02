@@ -64,8 +64,6 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
    <h4> With </h4>
    
 [@Avilash2001](https://github.com/Avilash2001) | [@FUNKY-doc69](https://github.com/FUNKY-doc69) | 
---- | --- | 
-![@Avilash2001](https://avatars.githubusercontent.com/Avilash2001?s=150&v=1) | ![@FUNKY-doc69](https://avatars.githubusercontent.com/FUNKY-doc69?s=150&v=1) | 
 
   <h3>Learning</h3>
    <ul>
