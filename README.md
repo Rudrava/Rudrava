@@ -59,11 +59,12 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 <h2> Currently working On </h2><img align='right' src='https://media.giphy.com/media/eYilisUwipOEM/giphy.gif' width='200"'>
 <br>
-   <h2>newRade</h2><b> as a <em> web/App developement </em> and <em> Social Media Company </em>. Check <a href="https://nwrade.com" target="_blank">newRade</a> here...</b>
+   <h2><a href="https://nwrade.com" target="_blank">nwRade</a></h2><b> as a <em> web/App developement </em> and <em> Social Media Company </em>. Checkhere...</b>
    </b>
    <h4> With </h4>
    
-[@Avilash2001](https://github.com/Avilash2001) | [@FUNKY-doc69](https://github.com/FUNKY-doc69) | 
+- [@Avilash2001](https://github.com/Avilash2001)
+- [@FUNKY-doc69](https://github.com/FUNKY-doc69)
 
   <h3>Learning</h3>
    <ul>
