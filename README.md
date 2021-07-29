@@ -70,8 +70,31 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
    <ul>
    <li><b>MERN</b> stack</li>
    <li>MongoDB(DONE)</li>
+   <li>MySQL(DONE)</li>
    <li>JavaScript(DONE)</li>
+   <li>TypeScript(DONE)</li>
+  
    </ul>
+   
+
+  <h3>STATS</h3>
+
+
+<div>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Rudrava's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rudrava&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Rudrava's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrava" />
+
+</details>
+</div>
 
 <hr>
 <h2> Get in touch </h2> <img align='right' src='https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif' width='200"'>
