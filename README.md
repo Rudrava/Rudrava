@@ -7,7 +7,8 @@
 
 <h2> How I work </h2>
 
-My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
+An Average coder now with good knowldge of react. Why is there no commits in last 3 months (i got a job bitch!!! 😂).
+Hit me up with any ideas
 <hr>
 
 
@@ -87,12 +88,25 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
   <img align="left" alt="Rudrava's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rudrava&show_icons=true&hide_border=true" />
 
 </details>
-
 <details>
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Rudrava's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrava" />
 
+</details>
+  
+  </details>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+<a href="https://app.daily.dev/Rudrava"><img src="https://api.daily.dev/devcards/b229d4a0f6b04154ae6dc03a00a1ef8b.png?r=zki" width="400" alt="Rudrava Mukherjee's Dev Card"/></a>
+
+</details>
+<details>
+  <summary>🤓 Dev Card</summary>
+
+<img align="left" alt="Rudrava's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrava" />
+
+</details>
 </details>
 </div>
 
