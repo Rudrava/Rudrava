@@ -1,7 +1,4 @@
-<div>
-<h1> Rudrava Mukherjee </h1>
   <img align='right' src='https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' width='200"'>
-</div>
 
 <h3>I love to create and reverse engineer things. I currently work @fleapoco as a fullstack developer</h3>
 
