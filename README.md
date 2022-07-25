@@ -6,20 +6,13 @@
 <h3>I love to create and reverse engineer things. I currently work @fleapoco as a fullstack developer</h3>
 
 <h2> Technologies I 💖 work with </h2>
-<ul style="display: flex; gap: 5rem ">
-<div>
   <li>NodeJS</li>
   <li>Typescript</li>
   <li>React</li>
   <li>NextJS</li>
-</div>
-<div>
   <li>MongoDB</li>
   <li>ExpressJS</li>
   <li>AWS</li>
-</div>
-
-</ul>
 
 <hr>
 <h2> Get in touch </h2> 
